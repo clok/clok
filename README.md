@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Howdy! I'm Derek. I could do this all day. <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
+### Howdy! I'm Derek. I can do this all day. <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
 
 <hr>
 
