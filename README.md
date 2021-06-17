@@ -15,18 +15,6 @@ Here are some ideas to get you started:
 
 ### Howdy! I'm Derek. I can do this all day. <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
 
-<hr>
-
-<p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=clok&show_icons=true&theme=gruvbox&count_private=true">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clok&theme=gruvbox&layout=compact&count_private=true" />
-  </a>
-</p>
-
-<hr>
 
 ```go
 package main
